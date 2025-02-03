@@ -1,2 +1,23 @@
+# 🚑 Hospital Queue Management System
 
-The Hospital Queue Management System is an automated solution designed to streamline patient ticket generation, payment processing, and doctor appointment management in hospitals. The system allows patients to generate tickets for medical services, manage their queue positions, and see doctors after completing payments via integrated platforms like M-Pesa. Built using Python for the backend, the system leverages various libraries and frameworks to handle business logic, database interactions, and payment integrations. For the frontend, HTML, CSS, and JavaScript are used to ensure an accessible and responsive user interface. The payment processing is seamlessly integrated with M-Pesa APIs, allowing patients to pay conveniently. This system offers a smooth and efficient experience for both hospital staff and patients, reducing wait times and enhancing overall service delivery.
+The **Hospital Queue Management System** is an automated solution that simplifies hospital operations by managing patient queues, payments, and doctor appointments efficiently.
+
+## 🔹 Key Features
+- **🎟 Ticket Generation:** Patients can quickly generate tickets for medical services.
+- **📌 Queue Management:** View and manage queue positions in real time.
+- **💳 Payment Processing:** Seamless transactions via **M-Pesa**.
+- **👨‍⚕️ Doctor Appointments:** Schedule and see doctors after completing payments.
+- **💻 Technology Stack:**
+  - **Backend:** Python with advanced libraries and frameworks.
+  - **Frontend:** HTML, CSS, and JavaScript for a user-friendly experience.
+  - **Payment Integration:** Secure M-Pesa API integration for hassle-free payments.
+
+This system enhances the experience for both patients and hospital staff by reducing wait times and optimizing service delivery.
+
+---
+
+☕ **Support My Work**  
+If you find this project helpful, consider supporting me:
+- [Buy Me a Coffee](https://www.buymeacoffee.com/yourusername) ☕
+- Paypal - https://paypal.com/kimaninjoroge04 ☕
+- **Bitcoin Donations:** `YourBitcoinWalletAddress` ₿
